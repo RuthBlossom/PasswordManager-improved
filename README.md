@@ -3,6 +3,9 @@
 ## Overview
 This Python script implements a simple password manager application using Tkinter for the graphical user interface (GUI). The application allows users to securely store login credentials for various websites and provides features for generating strong passwords and retrieving saved passwords.
 
+![password](https://github.com/user-attachments/assets/83f537d3-733a-4b87-ad2e-23e383e371a8)
+
+
 ## Prerequisites
 - Python 3.x
 - Tkinter (usually included in standard Python installations)
